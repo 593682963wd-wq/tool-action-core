@@ -1,0 +1,14 @@
+{
+  "action": "events",
+  "events": [
+    {
+      "id": "event-1",
+      "session": "session-1",
+      "agent": "agent-1",
+      "timestamp": "2030-01-01T00:00:00+00:00",
+      "type": "task_started"
+    }
+  ],
+  "now": "2030-01-01T00:01:00+00:00",
+  "stale_seconds": 30
+}
